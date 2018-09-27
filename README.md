@@ -1,2 +1,4 @@
-# hu-oss-sw-2018-lab-3
-HY Univercity
+OSS SW Lab.
+===========
+
+ * 'Lee Subin' 
